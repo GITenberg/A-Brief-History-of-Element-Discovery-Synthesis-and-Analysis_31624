@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35365'
     url: http://www.gutenberg.org/2009/agents/35365
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31624#A-Brief-History-of-Element-Discovery-Synthesis-and-Analysis
 gutenberg_bookshelf: Physics
 gutenberg_issued: '2010-03-13'
 gutenberg_type: Text

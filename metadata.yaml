@@ -1,0 +1,27 @@
+_repo: A-Brief-History-of-Element-Discovery-Synthesis-and-Analysis_31624
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31624-h/images/bcover.png
+creator:
+  author:
+    agent_name: Watson, Glen W.
+    gutenberg_agent_id: '35365'
+    url: http://www.gutenberg.org/2009/agents/35365
+description: ''
+gutenberg_bookshelf: Physics
+gutenberg_issued: '2010-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31624'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QD'
+- !lcsh 'Chemical elements'
+- !lcsh 'Chemistry -- History'
+- !lcsh 'Transuranium elements -- Synthesis'
+title: A Brief History of Element Discovery, Synthesis, and Analysis
+url: http://www.gutenberg.org/ebooks/31624
